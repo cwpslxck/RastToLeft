@@ -1,0 +1,8 @@
+pre {
+  direction: ltr !important;
+  text-align: left !important;
+}
+.dad65929, #chat-input {
+  direction: rtl !important;
+  text-align: right !important;
+}
